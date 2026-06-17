@@ -28,17 +28,26 @@ Kullanılan Başlıca Teknolojiler
 Proje Ekibi
 
 Ayşe Sena ŞAHİN
+
 Ceren Sena ALTUĞ
+
 Nehir DÖLER
+
 Nehir ERDEN
+
 Sıla Nur SÖNMEZ
+
 Yiğit Kemal YEŞİLTAŞ
+
 
 Danışmanlar
 
 Prof. Dr. Sedat NAZLIBİLEK
+
 Prof. Dr. Ziya TELATAR
+
 Dr. Öğr. Üyesi Onur KOÇAK
+
 
 Not
 
@@ -87,16 +96,23 @@ Technologies
 Project Team
 
 Ayşe Sena ŞAHİN
+
 Ceren Sena ALTUĞ
+
 Nehir DÖLER
+
 Nehir ERDEN
+
 Sıla Nur SÖNMEZ
+
 Yiğit Kemal YEŞİLTAŞ
 
 Supervisors
 
 Prof. Dr. Sedat NAZLIBİLEK
+
 Prof. Dr. Ziya TELATAR
+
 Asst. Prof. Dr. Onur KOÇAK
 
 Acknowledgement
