@@ -40,6 +40,8 @@ Sıla Nur SÖNMEZ
 Yiğit Kemal YEŞİLTAŞ
 
 
+
+
 Danışmanlar
 
 Prof. Dr. Sedat NAZLIBİLEK
@@ -106,6 +108,9 @@ Nehir ERDEN
 Sıla Nur SÖNMEZ
 
 Yiğit Kemal YEŞİLTAŞ
+
+
+
 
 Supervisors
 
