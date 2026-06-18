@@ -1,4 +1,4 @@
-🇹🇷 TR
+TR
 
 Eğitim ve Araştırma Uygulamaları İçin VR Destekli Robotik Cerrahi Eğitim Platformu
 
@@ -57,7 +57,7 @@ Bu proje geliştirilirken literatür araştırması, yazılım geliştirme, hata
 
 --------------------------------------------------------------
 
-🇬🇧 EN
+EN
 
 VR-Assisted Robotic Surgical Training Platform for Educational and Research Applications
 
